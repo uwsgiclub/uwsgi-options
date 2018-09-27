@@ -1,4 +1,4 @@
-# optimize - 优化级别
+# optimize - 设置 Python 优化级别
 
 设置 Python 编译时的优化级别，需要整型参数，可选值为 0、１、２。
 * 0 - Python
