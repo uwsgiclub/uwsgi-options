@@ -1,3 +1,4 @@
+```
 # Refer: https://uwsgi-docs.readthedocs.io/en/latest/tutorials/Django_and_nginx.html
 # templet_uwsgi.ini file
 [uwsgi]
@@ -33,3 +34,4 @@ listen          = 4096
 
 # recv() failed (104: Connection reset by peer) while reading response header from upstream
 buffer-size     = 65536
+```
